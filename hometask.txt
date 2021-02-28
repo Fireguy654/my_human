@@ -1,0 +1,2 @@
+Ветки master и demo отличаются файлом README(за исключением файла hometask.txt), в котором в первом случае есть фраза
+"with nice buttons on his jacket (buttons branch)", но нет точки, а во втором нет фраза, но есть точка в конце.
